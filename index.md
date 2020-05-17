@@ -1,4 +1,10 @@
-## Welcome to GitHub Pages
+# Do Deep Learning Models Generalize to Overhead Imagery from Novel Geographic Locations? The XGD Benchmark Problem
+
+## Dataset
+We use two publicly available benchmark datasets in building segmentation of the overhead imagery: [Inria](https://project.inria.fr/aerialimagelabeling/) and [DeepGlibe](https://competitions.codalab.org/competitions/18544) in the XGD benchmark problem. However, thoretically, you can use any two datasets to form a XGD testing scenario as long as the two datasets share the same annotated classes and resolution.
+
+## Setup
+
 
 You can use the [editor on GitHub](https://github.com/bohaohuang/xgd.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
